@@ -1,0 +1,2 @@
+import { Grid2X2 } from 'lucide-react';
+export default function Logo(){return <a href="#top" className="group inline-flex items-center gap-2.5" aria-label="VELoop Pixel home"><span className="grid size-9 place-items-center rounded-xl bg-slate-950 text-white shadow-sm transition group-hover:bg-blue-700"><Grid2X2 size={18}/></span><span className="text-[17px] font-black tracking-[-.04em] text-slate-950">VELoop <span className="text-blue-600">Pixel</span></span></a>}
